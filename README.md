@@ -2,11 +2,14 @@ He creado un script para MT4 que permite asignar en montos de dinero, el SL por 
 
 Esta creado para evitar que se creen ordenes con SL que permitan perdidas elevadas o totales de nuestro dinero, por un descuido al crear la orden. Recuerda que el uso es Solo tu responsabilidad. 
 
+
 NOTA: LEELO, NUNCA CONFIES EN UN CODIGO QUE OTRO ESCRIBIO, USA IA COMO CHATGPT O GEMINI, PARA VALIDAR SI EL CONTENIDO ES SEGURO DE UTILIZAR. Comparto este código bajo tu propio riesgo de uso, no está pensado para sustituir tu atención en las operaciones. Eres el único responsable al utilizarlos, sin perjuicio para terceras personas.
 
 El monto por defecto puede ser cambiado en el script o desde los menús de configuración como se indica en la guía. 
 
-La opciones para descargarlo  directamente los encuentras en  , es una ayuda.  Es gratis. Y espero que sea de ayuda para quien lo usa. 
+NOTA 2: Si operas desde el telefono movil, debes tener en tu PC la aplicacion de MT4 abierta, ejecutandose y conectada en todo momento para que el script se ejecute, quizas demore unos segundos en sincronizar los cambios (esto es una limitación tecnologica), pero es una alternativa, para realizar operaciones con un poco mas de tranquilidad. 
+
+Es gratis. Y espero que sea de ayuda para quien lo usa. Lo publico solo con la intención de ayudar, a quienes tienen una necesidad especifica y hacerles la vida un poco mas sencilla.
 
 ![Image]( images/image_1.png )
 
